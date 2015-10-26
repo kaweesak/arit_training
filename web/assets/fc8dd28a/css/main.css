@@ -1,0 +1,18 @@
+body{
+    margin-top: 67px;
+    background-color: #ffffff;
+}
+/*promo*/
+.sdu-promo{
+    background-color: #ECC731;
+    color: #ff;
+    padding: 20px 0 40px;
+}
+.sdu-promo h2 {
+    font-weight: 200;
+    margin-bottom: 0;
+    text-transform: uppercase;
+}
+.sdu-promo h2 b{
+    color:#fff;
+}
